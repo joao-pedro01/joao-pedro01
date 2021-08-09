@@ -18,5 +18,5 @@
 <div> 
   <a href="https://www.linkedin.com/in/joao-pedro01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joao_pedro01@terra.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  ![Snake animation](https://github.com/joao-pedro01/joao-pedro01/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/joao-pedro01/joao-pedro01/blob/output/github-contribution-grid-snake.svg)
 </div>
