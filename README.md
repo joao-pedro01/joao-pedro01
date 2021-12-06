@@ -30,7 +30,8 @@
  
  ![Snake animation](https://github.com/joao-pedro01/joao-pedro01/blob/output/github-contribution-grid-snake.svg) 
   <p>
-   ## Total de Visitas no perfil :detective: <br>
+   ##
+   Total de Visitas no perfil :detective: <br>
    <p align="center">
      <img alingn="center" src="https://profile-counter.glitch.me/joao-pedro01/count.svg" />
    </p>
