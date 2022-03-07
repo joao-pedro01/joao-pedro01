@@ -31,10 +31,10 @@
  
   ##
  
-  <p>
+  <h3>
    Total de Visitas no perfil :detective: <br>
    <p align="center">
      <img alingn="center" src="https://profile-counter.glitch.me/joao-pedro01/count.svg" />
-   </p>
+   </h3>
   </p>
 </div>
