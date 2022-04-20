@@ -43,12 +43,14 @@
  
 ##
  
-<h3>
-📊 Gráfico de contribuição 📊
-</h3>
+<h3>Gráficos de contribuição 📊</h3>
 <br> 
 <div align="center">
- <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=joao-pedro01&custom_title=Contribution+Graph&theme=xcode" />
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="80%" src="./profile-3d-contrib/profile-night-rainbow.svg">
+	</a>
+	<br>
+ 	<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=joao-pedro01&custom_title=Contribution+Graph&theme=xcode" />
 </div>
  
 ##
@@ -71,14 +73,10 @@
    </h3>
   </p>
 </div>
+ 
+##
+
 <br><br>
 <p align="center" width=100%>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
-
-
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-	</a>
 </p>
