@@ -71,3 +71,8 @@
    </h3>
   </p>
 </div>
+<br><br>
+<p align="center" width=100%>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
