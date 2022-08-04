@@ -1,4 +1,10 @@
-## Oiii! Eu sou o João👨‍🎓
+ <div align="center">
+ 
+ ![Header](./github-header-image.png)
+ 
+ 
+ </div>
+ <br><br>
  <div align="center">
     <a href="https://github.com/joao-pedro01">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-pedro01&show_icons=true&theme=react&show_icons=true&include_all_commits=true&count_private=true"/>
@@ -7,7 +13,7 @@
  </div>
  
  ##
- <h3>Ferramentas e tecnologias</h3>
+ <h3>Tools and technologies</h3>
  <div style="display: inline_block"><br>
   
    <img align="center" alt="Joao-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -43,7 +49,7 @@
  
 ##
  
-<h3>Gráficos de contribuição 📊</h3>
+<h3>Contribution charts 📊</h3>
 <br> 
 <div align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
@@ -56,7 +62,7 @@
 ##
  
 <div> 
- <h3>Contate-me:</h3>
+ <h3>contact me:</h3>
   <a href="mailto:joao_pedro01@terra.com.br"><img align="center" height="30" width="30" src="https://m.abcimovel.com.br/img/icon/email_c.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-pedro01/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
@@ -67,7 +73,7 @@
   ##
  
   <h3>
-   Total de Visitas no perfil :detective: <br>
+   Total Visits in profile :detective: <br>
    <p align="center">
      <img alingn="center" src="https://profile-counter.glitch.me/joao-pedro01/count.svg" />
    </h3>
