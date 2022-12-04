@@ -17,6 +17,7 @@
  <div style="display: inline_block"><br>
   
    <img align="center" alt="Logo do Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+   <img align="center" alt="logo do Swagger" height="30" width="30" src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png">
    <img align="center" alt="Logo do Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    <img align="center" alt="logo do Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
  </div>
@@ -41,10 +42,8 @@
   
    <img align="center" alt="Logo do PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
    <img align="center" alt="Logo do C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-   <img align="center" alt="Logo do cakePHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg">
    <img align="center" alt="logo do nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="logo do express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
-   <img align="center" alt="logo do Swagger" height="30" width="30" src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png">
    <img align="center" alt="logo do mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  </div>
  
