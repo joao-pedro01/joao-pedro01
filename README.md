@@ -13,6 +13,16 @@
  </div>
  
  ##
+ <h3>Operating Systems</h3>
+ <div style="display: inline_block"><br>
+  
+   <img align="center" alt="Logo do Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg">
+   <img align="center" alt="logo do Windows" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/windows11/windows11-original.svg">
+   <img align="center" alt="logo da Apple" height="40" width="50" src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/apple.svg">
+ </div>
+ 
+ 
+ ##
  <h3>Tools and technologies</h3>
  <div style="display: inline_block"><br>
   
@@ -20,6 +30,10 @@
    <img align="center" alt="logo do Swagger" height="30" width="30" src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png">
    <img align="center" alt="Logo do Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    <img align="center" alt="logo do Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+   <img align="center" alt="logo da JetBrains" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jetbrains/jetbrains-original.svg"> 
+   <img align="center" alt="logo do AndroidStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/androidstudio/androidstudio-original.svg">
+   <img align="center" alt="logo do Xcode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/xcode/xcode-original.svg">
+   
  </div>
   
 ##
@@ -46,6 +60,14 @@
    <img align="center" alt="logo do nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="logo do express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
    <img align="center" alt="logo do mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+ </div>
+ 
+##
+
+ <h3>Mobile</h3>
+ <div style="display: inline_block"><br>
+   <img align="center" alt="Logo do React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+   <img align="center" alt="Logo do Fluetter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/flutter/flutter-original.svg">
  </div>
  
 ##
