@@ -78,8 +78,6 @@
 	<a href="./profile-3d-contrib/profile-night-green.svg">
 		<img width="80%" src="./profile-3d-contrib/profile-night-rainbow.svg">
 	</a>
-	<br>
- 	<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=joao-pedro01&custom_title=Contribution+Graph&theme=xcode" />
 </div>
  
 ##
