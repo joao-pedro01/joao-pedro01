@@ -7,9 +7,9 @@
  <br><br>
  <div align="center">
     <a href="https://github.com/joao-pedro01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-pedro01&show_icons=true&theme=react&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro01&layout=compact&langs_count=7&theme=react&show_icons=true&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=joao-pedro01&theme=react">
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-pedro01&show_icons=true&theme=react&show_icons=true&include_all_commits=true&count_private=true"/> -->
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro01&layout=compact&langs_count=7&theme=react&show_icons=true&include_all_commits=true&count_private=true"/> -->
+ 	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=joao-pedro01&theme=react">
  </div>
  
  ##
@@ -84,24 +84,15 @@
  
 <div> 
  <h3>contact me:</h3>
-  <a href="mailto:joao_pedro01@terra.com.br"><img align="center" height="30" width="30" src="https://m.abcimovel.com.br/img/icon/email_c.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-pedro01/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:joao_pedro01@terra.com.br"><img align="center" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/3296/3296464.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joao-pedro01/" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
  
- ##
- 
- ![Snake animation](https://github.com/joao-pedro01/joao-pedro01/blob/output/github-contribution-grid-snake.svg) 
+ <!-- ![Snake animation](https://github.com/joao-pedro01/joao-pedro01/blob/output/github-contribution-grid-snake.svg) -->
  
   ##
  
-  <h3>
-   Total Visits in profile :detective: <br>
-   <p align="center">
-     <img alingn="center" src="https://profile-counter.glitch.me/joao-pedro01/count.svg" />
-   </h3>
-  </p>
+  
 </div>
- 
-##
 
 <br><br>
 <p align="center" width=100%>
